@@ -3,5 +3,5 @@ All Updates for THP3 will be hosted here instead of the website: TheHackerPlaybo
 
 Updates: 
 
--None so far! :D
+-Minor typo on the URL for the notes for the Custom Support System VM Web Lab.  Instead of blog it was supposed to be blob.  Updated link: https://github.com/cheetz/THP-ChatSupportSystem/blob/master/lab.txt
 
