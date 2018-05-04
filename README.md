@@ -3,5 +3,5 @@ All Updates for THP3 will be hosted here instead of the website: TheHackerPlaybo
 
 Updates: 
 
--Minor typo on the URL for the notes for the Custom Support System VM Web Lab.  Instead of blog it was supposed to be blob.  Updated link: https://github.com/cheetz/THP-ChatSupportSystem/blob/master/lab.txt.  I believe you should be able to update any ebooks copies on Kindle to contain the new link, but of course not physical.
+-Minor typo on the URL for the notes for the Custom Support System VM Web Lab.  Instead of blog it was supposed to be blob.  Updated link: https://github.com/cheetz/THP-ChatSupportSystem/blob/master/lab.txt.  I believe you should be able to update any ebooks copies on Kindle to contain the new link, but of course not physical.  Updated physical for future purchases.
 
