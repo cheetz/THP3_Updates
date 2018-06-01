@@ -12,6 +12,8 @@ THP Book Updates:
 
 
 
-Recommendations from Readers:
+Recommendations from Readers (or from me):
 
 - From @Heliand, a few other tools to help you build out an Active Directory lab/test environment https://github.com/curi0usJack/ADImporter, https://github.com/jaredhaight/PowerShellClassLab, https://github.com/clong/DetectionLab, https://github.com/outflanknl/Invoke-ADLabDeployer
+
+- Red teamers - take your C2 comms to the next level with mod_python - https://labs.nettitude.com/blog/apache-mod_python-for-red-teams/
