@@ -5,9 +5,7 @@ THP Book Updates:
 
 - Minor typo on the URL for the notes for the Custom Support System VM Web Lab.  Instead of blog it was supposed to be blob.  Updated link: https://github.com/cheetz/THP-ChatSupportSystem/blob/master/lab.txt.  I believe you should be able to update any ebooks copies on Kindle to contain the new link, but of course not physical.  Updated physical for future purchases.
 
-- Slurp was not working as intended in the THP Virtual Kali Machine.  All images on the server have been updated, but if you want to manually update it, you can do this:
-  - git clone https://github.com/bbb31/slurp.git /opt/slurp && cd /opt/slurp && cp /root/go/bin/slurp /opt/slurp/
-  - ./slurp domain -t cyberspacekittens.com
+- Slurp (https://github.com/bbb31/slurp.git) github repo has been removed by the owner.  This tool can still be found on the THP Kali VM under /opt/slurp or on archive.org https://archive.org/details/github.com-bbb31-slurp_-_2017-12-05_23-19-32.
 
 
 
