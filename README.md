@@ -7,7 +7,7 @@ THP Book Updates:
 
 - Slurp (https://github.com/bbb31/slurp.git) github repo has been removed by the owner.  This tool can still be found on the THP Kali VM under /opt/slurp or on archive.org https://archive.org/details/github.com-bbb31-slurp_-_2017-12-05_23-19-32.
 
-
+- Bit.ly link for the Red Canary Matrix is broken.  The new link is https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/windows-matrix.md.  
 
 
 Recommendations from Readers (or from me):
