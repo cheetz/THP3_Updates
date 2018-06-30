@@ -14,6 +14,7 @@ The instructions to build Slurp correctly are (tested in Kali):
   4. mv slurp/vendor slurp/src
   5. export GOPATH=PATH/TO/slurp
   6. go build
+  7. ./slurp domain --domain cyberspacekittens.com
 
 - Bit.ly link for the Red Canary Windows ATT&CK Matrix is broken.  The new link is https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/windows-matrix.md.  
 
