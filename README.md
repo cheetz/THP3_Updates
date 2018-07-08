@@ -26,3 +26,5 @@ Recommendations from Readers (or from me):
 - From @Heliand, a few other tools to help you build out an Active Directory lab/test environment https://github.com/curi0usJack/ADImporter, https://github.com/jaredhaight/PowerShellClassLab, https://github.com/clong/DetectionLab, https://github.com/outflanknl/Invoke-ADLabDeployer
 
 - Red teamers - take your C2 comms to the next level with mod_python - https://labs.nettitude.com/blog/apache-mod_python-for-red-teams/
+
+- From @_P3GLEG, One new vector which you didn't talk about within your book was Docker. Recently, on a lot of engagements I have found docker registry's with no authentication or a simple/stolen password and am able to pull down images. Using https://github.com/P3GLEG/Whaler I have been able to discover credentials, map the open ports to images and use the information to pivot further. It's a great new vector and just wanted to bring it to your attention.
