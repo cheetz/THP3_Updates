@@ -21,6 +21,8 @@ The instructions to build Slurp correctly are (tested in Kali):
 
 - Bit.ly link for the Red Canary Windows ATT&CK Matrix is broken.  The new link is https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/windows-matrix.md.  
 
+- It looks like the latest Windows 10 update might have broken the PowerShell version of Mimikatz.  So the tool like, HideMyPS might not be working properly until they fix this.  More to come on this.
+
 
 Recommendations from Readers (or from me):
 
